@@ -14,6 +14,7 @@ namespace Lab04
 {
     public partial class Form1 : Form
     {
+    // Minh CUong da o day
        
         public Form1()
         {
