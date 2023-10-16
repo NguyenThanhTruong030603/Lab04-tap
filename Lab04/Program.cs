@@ -17,6 +17,7 @@ namespace Lab04
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmReport());
+            //aaaaa
         }
     }
 }
